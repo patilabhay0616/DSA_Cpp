@@ -15,6 +15,7 @@ int main() {
     int key;
     cout<<"Enter the key which you want to search"<<endl;
     cin>>key;
+    cout<<"alsdjf";
 
     int index = linearSearch(arr, 5, key);
 
